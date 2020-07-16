@@ -554,7 +554,7 @@ footer #social-media-footer ul li:hover a .fa-github {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 720px) {
   main {
     width: 85%;
   }
